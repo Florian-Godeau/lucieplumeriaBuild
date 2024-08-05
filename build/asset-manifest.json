@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5070ea08.css",
+    "main.js": "/static/js/main.aefd7f29.js",
+    "static/media/contact.webp": "/static/media/contact.799c6ba84193feb2afdf.webp",
+    "static/media/entreprise.webp": "/static/media/entreprise.e857e43e387f4feeedef.webp",
+    "static/media/collectif.webp": "/static/media/collectif.d0fe716f48873aa891df.webp",
+    "static/media/individual.webp": "/static/media/individual.795de07c2a95d0f89bc7.webp",
+    "static/media/sunflower.webp": "/static/media/sunflower.498ef7f8b136fee090b3.webp",
+    "static/media/about.webp": "/static/media/about.a249adb1a4a4bfa78aee.webp",
+    "static/media/seance.webp": "/static/media/seance.ec6453a54b3d433b921e.webp",
+    "static/media/lucie.webp": "/static/media/lucie.5cec1c35ef10a7bfa044.webp",
+    "static/media/mail.png": "/static/media/mail.f13db4afac8b82cf5769.png",
+    "static/media/phone.png": "/static/media/phone.02463ffac533d1694dbf.png",
+    "static/media/10seance.webp": "/static/media/10seance.8229b5d39327ecd05ff8.webp",
+    "static/media/5seance.webp": "/static/media/5seance.0fcf099420c6a29474fc.webp",
+    "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/lucieLogo.webp": "/static/media/lucieLogo.22dac9f2fb3befb2c8c2.webp",
+    "index.html": "/index.html",
+    "main.5070ea08.css.map": "/static/css/main.5070ea08.css.map",
+    "main.aefd7f29.js.map": "/static/js/main.aefd7f29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5070ea08.css",
+    "static/js/main.aefd7f29.js"
+  ]
+}
